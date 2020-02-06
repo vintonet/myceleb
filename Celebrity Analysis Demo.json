@@ -1,0 +1,53 @@
+{
+  "properties": {
+    "lenses": {
+      "0": {
+        "order": 0,
+        "parts": {
+          "0": {
+            "position": {
+              "x": 0,
+              "y": 0,
+              "colSpan": 12,
+              "rowSpan": 9
+            },
+            "metadata": {
+              "inputs": [],
+              "type": "Extension/HubsExtension/PartType/MarkdownPart",
+              "settings": {
+                "content": {
+                  "settings": {
+                    "content": "<a href=\"https://msit.powerbi.com/groups/me/reports/fa9747e3-cd0c-4d0b-9404-465f1b6c002b/ReportSection\" target=\"_blank\"><img height=\"\" width=\"\" src=\"https://azuredanstorage.blob.core.windows.net/ai101/CAnalytics.png\"></a>\n\n\n<table width=\"1024\">\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\">Step 1: Create a New Resource Group Named CelebrityAnalysis in the North Europe Region</td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\">Step 2: From the CelebrityAnalysis Resource Group Create a New Storage Account. This will host the Storage Queue that we will use to begin the query.</td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\">Step 3: Create a New Bing Search Cognitive Service (For the sake of the Lab we will use the “Free Tier”)</td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\">Step 4: Create a New Text Analytics Cognitive Service (For the sake of the Lab we will use the “Free Tier”)</td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\">Step 5: Create a New Azure SQL Server that hosts a New SQL Database</td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\">Step 6: Create a New Table using the following SQL Code</td>\n\n<td width=\"724\" style=\"vertical-align:middle\"><img src=\"\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"><img src=\"https://azuredanstorage.blob.core.windows.net/ai101/PicardAI.png\"></td>\n\n</tr>\n\n<tr>\n\n<td width=\"300\" style=\"vertical-align:top\"></td>\n\n<td width=\"724\" style=\"vertical-align:middle\"></td>\n\n</tr>\n\n</table>",
+                    "title": "Azure AI-101 Lab",
+                    "subtitle": "Celebrity Sentiment Analysis with Cognitive Services",
+                    "markdownSource": 1
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "metadata": {
+      "model": {
+        "timeRange": {
+          "value": {
+            "relative": {
+              "duration": 24,
+              "timeUnit": 1
+            }
+          },
+          "type": "MsPortalFx.Composition.Configuration.ValueTypes.TimeRange"
+        }
+      }
+    }
+  },
+  "name": "Celebrity Analysis Demo",
+  "type": "Microsoft.Portal/dashboards",
+  "location": "INSERT LOCATION",
+  "tags": {
+    "hidden-title": "Celebrity Analysis Demo"
+  },
+  "apiVersion": "2015-08-01-preview"
+}
